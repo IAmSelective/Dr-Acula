@@ -3,6 +3,7 @@
 .export/
 mono/
 .godot/
+*.import
 
 # Exported builds
 export/*
