@@ -10,9 +10,12 @@ config_version=5
 
 [application]
 
-config/name="TP1_Dr_Acula"
+config/name="Dr. Acula"
+config/description="Top-down action RPG made with Godot 4 inspired by Vampire Survivors"
+config/version="1.0.1"
 run/main_scene="uid://da7apcf4sh512"
 config/features=PackedStringArray("4.5", "Forward Plus")
+config/icon="uid://d33mkrml4myig"
 
 [display]
 

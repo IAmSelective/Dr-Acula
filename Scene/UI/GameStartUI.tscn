@@ -1,7 +1,7 @@
 [gd_scene load_steps=12 format=3 uid="uid://degms0pgy28bk"]
 
 [ext_resource type="Script" uid="uid://dphyydi8ef2e2" path="res://Script/UI/game_start.gd" id="1_ba2k8"]
-[ext_resource type="FontFile" uid="uid://bfj0mkxi42dp1" path="res://Asset/UI/HauntingEleanor-Regular.ttf" id="1_befgp"]
+[ext_resource type="FontFile" uid="uid://b4s16a1ubq4a7" path="res://Asset/UI/HauntingEleanor-Regular.ttf" id="1_befgp"]
 [ext_resource type="StyleBox" uid="uid://ck15ar68gvx1" path="res://UITheme/UI_btn_normal.tres" id="2_kjdaj"]
 [ext_resource type="StyleBox" uid="uid://pdu3vg0snm7g" path="res://UITheme/UI_btn_hover.tres" id="3_ba2k8"]
 [ext_resource type="StyleBox" uid="uid://cxkms70kcqjh2" path="res://UITheme/UI_btn_pressed.tres" id="4_djukn"]
